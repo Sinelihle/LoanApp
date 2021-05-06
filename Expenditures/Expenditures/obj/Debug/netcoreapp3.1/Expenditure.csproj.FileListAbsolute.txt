@@ -1,0 +1,13 @@
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.exe
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.deps.json
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.runtimeconfig.json
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.runtimeconfig.dev.json
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.dll
+C:\Users\sinel\source\repos\Expenditures\Expenditures\bin\Debug\netcoreapp3.1\Expenditure.pdb
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.csprojAssemblyReference.cache
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.AssemblyInfoInputs.cache
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.AssemblyInfo.cs
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.csproj.CoreCompileInputs.cache
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.dll
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.pdb
+C:\Users\sinel\source\repos\Expenditures\Expenditures\obj\Debug\netcoreapp3.1\Expenditure.genruntimeconfig.cache
